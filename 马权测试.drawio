@@ -4,17 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="oUA6OlFLRsuXlXi8rfvU-1" value="入口层&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="200" width="220" height="300" as="geometry" />
+        <mxCell id="McWzM7JJ_4Omj6zntRuM-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oUA6OlFLRsuXlXi8rfvU-2" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=https://img.alicdn.com/imgextra/i1/O1CN01eazQ6e1E2F0Q2D5hZ_!!6000000000293-55-tps-200-200.svg;" vertex="1" parent="1">
-          <mxGeometry x="186" y="380" width="48" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="oUA6OlFLRsuXlXi8rfvU-3" value="&lt;div&gt;业务层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="200" width="220" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="oUA6OlFLRsuXlXi8rfvU-4" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=https://img.alicdn.com/imgextra/i1/O1CN01y7eLML1vV7SPIoDqQ_!!6000000006177-55-tps-200-200.svg;" vertex="1" parent="1">
-          <mxGeometry x="536" y="390" width="48" height="48" as="geometry" />
+        <mxCell id="McWzM7JJ_4Omj6zntRuM-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
