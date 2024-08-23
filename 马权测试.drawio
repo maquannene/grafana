@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="eoHY9r-CmlOx7x90__HX">
-    <mxGraphModel>
+    <mxGraphModel dx="2074" dy="1121" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oUA6OlFLRsuXlXi8rfvU-1" value="入口层&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="200" width="220" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oUA6OlFLRsuXlXi8rfvU-2" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=https://img.alicdn.com/imgextra/i1/O1CN01eazQ6e1E2F0Q2D5hZ_!!6000000000293-55-tps-200-200.svg;" vertex="1" parent="1">
+          <mxGeometry x="186" y="380" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="oUA6OlFLRsuXlXi8rfvU-3" value="&lt;div&gt;业务层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="200" width="220" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="oUA6OlFLRsuXlXi8rfvU-4" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=https://img.alicdn.com/imgextra/i1/O1CN01y7eLML1vV7SPIoDqQ_!!6000000006177-55-tps-200-200.svg;" vertex="1" parent="1">
+          <mxGeometry x="536" y="390" width="48" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
